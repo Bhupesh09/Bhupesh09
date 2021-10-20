@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhupesh09
 - 👀 I’m actively looking for a job as a developer
-- 🌱 I’m currently learning Pytho
+- 🌱 I’m currently learning Python
 - 📫 How to reach me bbalekundri09@gmail.com
 
 <!---
